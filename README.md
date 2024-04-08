@@ -1,6 +1,7 @@
 # Fullstack project
 
-DEADLINE:
+DEADLINE: Friday 26/4
+Presentation day: 25 and 26/4
 
 ## Read this section carefully.
 
@@ -27,7 +28,7 @@ Backend project is a team project so:
 
 ### Logic
 
-1. Products: get list of products with pagination, get product by id , filtering by product name, price range or by category
+1. Products: get list of products with pagination, get product by id , filtering by product name, price range or by category and searching
 2. User: register with email and password, log in, update user information
 3. Order: user can make order and see list of order they purchase
 4. Admin: create new product, update products
