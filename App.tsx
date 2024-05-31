@@ -4,7 +4,9 @@ function App() {
   const [example, setExample] = useState({
     totalCount: 0,
   });
-
+/**
+ * @desc fetches data from products url
+ */
   useEffect(() => {
     axios
       .get(url)
